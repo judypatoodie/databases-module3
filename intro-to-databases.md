@@ -116,6 +116,6 @@ A:
          WHERE userid = 4;
     ```
 
-| userid | name           | email    | signup |
-|:------:|:---------- ---:|:--------:|:------:|
-| 4      | Brandy Boolean | bboolean@nasa.gov | 1999-10-15 |
+| userid | name          | email    | signup |
+|:------:|:-------------:|:--------:|:------:|
+| 4      | Brandy Boolean | bboolean@nasa.gov |1999-10-15 |
