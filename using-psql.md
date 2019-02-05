@@ -10,4 +10,5 @@ FROM books;
  1593 | JavaScript: The Good Parts               | Douglas Crockford
  8982 | Designing Object-Oriented Software       | Rebecca Wirfs-Brock
  7265 | Practical Object-Oriented Design in Ruby | Sandi Metz
+
 (4 rows)
